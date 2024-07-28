@@ -1,0 +1,11 @@
+Q1: Write a program that calculates the area of a rectangle.
+
+Q2: Write a program that takes input and calculates the volume of a cube.
+
+Q3: Write a program that checks if a given number is positive, negative or zero.
+
+Q4: write a program that checks if a given number is even or odd.
+
+Q5: write a program that determines if a person is eligible to vote based on their age.
+
+Q6: Write a program that calculates the result of a mathematical expression. ((10+5) * 3 - 2) / (4 % 3) - 7
