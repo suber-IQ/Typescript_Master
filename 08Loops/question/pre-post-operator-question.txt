@@ -1,0 +1,73 @@
+
+
+🎄 Basic Questions
+
+👉 What is the difference between prefix and postfix increment operators in TypeScript?
+👉 Write a TypeScript code snippet using the prefix increment operator.
+👉 Write a TypeScript code snippet using the postfix increment operator.
+👉 What will be the output of let x = 5; console.log(++x);?
+👉 What will be the output of let x = 5; console.log(x++); console.log(x);?
+👉 How does the prefix decrement operator work in TypeScript?
+👉 How does the postfix decrement operator work in TypeScript?
+👉 Write a TypeScript code snippet using the prefix decrement operator.
+👉 Write a TypeScript code snippet using the postfix decrement operator.
+👉 What will be the output of let y = 10; console.log(--y);?
+👉 What will be the output of let y = 10; console.log(y--); console.log(y);?
+👉 Explain the order of operations when using the postfix increment operator inside an expression.
+👉 Explain the order of operations when using the prefix increment operator inside an expression.
+👉 What is the difference between ++x + y and x++ + y?
+👉 How can prefix and postfix operators be used in a loop?
+
+🎄 Intermediate Questions
+
+👉 Write a TypeScript function that returns the next number of a given integer using a prefix operator.
+👉 Write a TypeScript function that returns the previous number of a given integer using a prefix operator.
+👉 Write a TypeScript function that returns the next number of a given integer using a postfix operator.
+👉 Write a TypeScript function that returns the previous number of a given integer using a postfix operator.
+👉 How does the postfix increment operator work within a TypeScript for loop?
+👉 How does the prefix increment operator work within a TypeScript for loop?
+👉 What happens when you use multiple increment operators in a single expression?
+👉 Write a TypeScript program that demonstrates the difference between x++ and ++x in a loop.
+👉 Write a TypeScript program that demonstrates the difference between x-- and --x in a loop.
+👉 What will be the output of let x = 3; let y = 4; console.log(++x + y++);?
+👉 What will be the output of let x = 7; let y = 2; console.log(x++ + ++y);?
+👉 How do prefix and postfix operators behave when applied to object properties?
+👉 How do prefix and postfix operators behave when applied to array elements?
+👉 Write a TypeScript program that uses a prefix increment operator in an array loop.
+👉 Write a TypeScript program that uses a postfix increment operator in an array loop.
+
+🎄 Advanced Questions
+
+👉 What is the result of let arr = [1, 2, 3]; console.log(arr[++arr[0]]);?
+👉 What is the result of let obj = { a: 1, b: 2 }; console.log(++obj.a);?
+👉 Can prefix and postfix operators be used in TypeScript templates? Provide an example.
+👉 How do prefix and postfix operators affect the performance of a TypeScript program?
+👉 Can prefix and postfix operators be overloaded in TypeScript?
+👉 Write a TypeScript function that accepts a number and returns its double using the prefix increment operator.
+👉 Write a TypeScript function that accepts a number and returns its half using the prefix decrement operator.
+👉 What will be the output of let x = 5; x = ++x + x++;?
+👉 What will be the output of let y = 3; y = y++ + --y;?
+👉 How do prefix and postfix operators work when combined with other arithmetic operations?
+👉 Write a TypeScript program that demonstrates the use of prefix and postfix operators in a switch statement.
+👉 Write a TypeScript function that uses prefix and postfix operators to return an array of incremented numbers.
+👉 How do prefix and postfix operators behave in a TypeScript class method?
+👉 Can prefix and postfix operators be used with TypeScript enums? Provide an example.
+👉 What is the behavior of the prefix and postfix operators in a recursive function?
+👉 How do prefix and postfix operators behave when used with floating-point numbers?
+👉 How do prefix and postfix operators behave when used with string concatenation?
+👉 Write a TypeScript program that shows the difference in behavior of prefix and postfix operators in a nested loop.
+👉 What is the effect of prefix and postfix operators on undefined variables?
+👉 Write a TypeScript program that uses prefix and postfix operators in an object method.
+
+🎄 Expert-Level Questions
+
+👉 Write a TypeScript function that calculates the factorial of a number using prefix increment operators.
+👉 Write a TypeScript function that calculates the factorial of a number using postfix increment operators.
+👉 How can prefix and postfix operators be used in optimizing a loop's performance in TypeScript?
+👉 Write a TypeScript program that demonstrates the behavior of prefix and postfix operators in an async function.
+👉 Can prefix and postfix operators be used with TypeScript's bigint type? Provide an example.
+👉 How do prefix and postfix operators behave in TypeScript's spread syntax?
+👉 Write a TypeScript program that uses prefix and postfix operators in a map function.
+👉 How do prefix and postfix operators affect TypeScript's type inference?
+👉 Write a TypeScript decorator that logs the use of prefix and postfix operators on a property.
+👉 What are the edge cases where prefix and postfix operators might cause unexpected results in TypeScript?

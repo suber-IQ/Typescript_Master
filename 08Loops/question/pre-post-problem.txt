@@ -1,0 +1,80 @@
+🎄 pre & post problem calculation 
+
+👉 Problem: Calculate the value of i after i = i++ + ++i;.
+👉 Problem: Given let a = 5; let b = 10;, find the value of c after c = a + b + a++ + b++ + ++a + ++b;.
+👉 Problem: Calculate the value of i after i = i++ - -i + ++i - i--;.
+👉 Problem: Given let i = 7; let j = 3; let k = 5;, find the value of m after m = i-- - j-- - k--;.
+
+👉 Problem: Given let a = 6; let b = 4;, calculate the result of --b - ++a + ++b - --a;.
+👉 Problem: For variables i, j, and k, find the value of k after k = i-- i++ + -j - ++j + -i - j- + +ti - j++;.
+👉 Problem: Given let i = 8;, write the code to calculate the value of intj after intj = --(i++);.
+
+👉 Problem: Given let m = 9; let n = 3;, calculate the value of p after p = --m * --n * n-- * m--;.
+👉 Problem: Given let a = 7;, calculate the result of a = a++ + ++a * --a - a--;.
+👉 Problem: Predict the output of let a = 11++;.
+
+👉 Problem: Given let m = 10; let n = 5;, calculate the value of p after p = m++ / ++n * n-- / --m;.
+👉 Problem: Given let x = 5; let y = 3; let z = 4;, calculate the value of i after i = -x + y++ - z-- - --z + ++y - --x + y-- - --x;.
+👉 Problem: Determine the result of let i = 4; i = i++ + i-- - ++i + --i;.
+
+👉 Problem: Given let a = 2; let b = 3;, calculate the value of c after c = ++a + b++ - --b + a--;.
+👉 Problem: What will be the value of d after let x = 1; let y = 2; let z = 3; let d = ++x * y-- + --z;?
+👉 Problem: For let a = 3; let b = 7; let c = 2;, find the value of result after result = a++ + b-- * ++c - --b;.
+
+👉 Problem: Predict the outcome of let i = 5; i = i-- + ++i * i++ - --i;.
+👉 Problem: Given let a = 6; let b = 8;, calculate the value of r after r = --a + b++ - a-- * ++b;.
+👉 Problem: What is the value of q after let i = 10; let j = 4; q = i++ + --j * j-- + ++i;?
+
+👉 Problem: For let a = 9; let b = 4;, find the value of s after s = a-- + --b + a++ - ++b;.
+👉 Problem: Predict the result of let x = 2; let y = 3; let z = 4; let w = x++ - --y + ++z - z--;.
+👉 Problem: Calculate the value of n after let a = 7; let b = 5; n = a-- * ++b + --a - b--;.
+
+👉 Problem: Given let i = 6; let j = 3;, determine the value of result after result = i++ / j-- - ++j + --i;.
+👉 Problem: For let m = 8; let n = 5;, find the result of p = --m + ++n * m-- - n++;.
+👉 Problem: Calculate the value of k after let x = 4; let y = 6; k = y-- * ++x + x-- - --y;.
+
+👉 Problem: Predict the outcome of let a = 2; let b = 3; let c = 4; let result = --a + b++ - c-- + ++b;.
+👉 Problem: What will be the value of z after let i = 5; let j = 7; z = i++ * --j + j-- - ++i;?
+👉 Problem: For let m = 3; let n = 4; let p = 5;, find the value of r after r = m++ - ++n + p-- + --m;.
+
+👉 Problem: Calculate the result of let x = 9; let y = 2; let z = 3; let res = x++ / --y + ++z - z--;.
+👉 Problem: Predict the value of result after let i = 7; let j = 2; result = --i * j++ + i-- - ++j;.
+👉 Problem: What will be the value of p after let a = 10; let b = 5; p = ++a * --b + a-- - b--;?
+
+👉 Problem: For let m = 8; let n = 6;, calculate the value of k after k = m++ - --n + n-- * ++m;.
+👉 Problem: Predict the result of let x = 4; let y = 7; let z = 3; let w = --x + y++ - z-- + ++y;.
+👉 Problem: What will be the value of d after let i = 11; let j = 5; d = i-- * ++j + --i - j--;?
+
+👉 Problem: For let a = 3; let b = 2; let c = 6;, calculate the value of r after r = b++ + --c - ++a * a--;.
+👉 Problem: Determine the result of let x = 5; let y = 4; let z = 7; let res = --y + z-- * ++x - x++;.
+👉 Problem: Predict the outcome of let i = 9; let j = 3; let k = 2; let res = i++ / --j + k-- - ++i;.
+
+👉 Problem: What will be the value of p after let m = 7; let n = 4; p = ++m * n-- + --n - m++;?
+👉 Problem: For let a = 12; let b = 6;, calculate the value of result after result = --a + ++b * a-- - b++;.
+👉 Problem: Predict the value of r after let x = 8; let y = 3; let z = 5; r = z++ - --y + x-- * ++z;.
+
+👉 Problem: What is the result of let i = 5; i = i++ - --i + ++i + i--;?
+👉 Problem: Calculate the value of c after let a = 8; let b = 4; c = --a + ++b * a-- - b++;.
+👉 Problem: Predict the output of let x = 3; let y = 2; let z = 4; let result = x++ + --y * z-- + ++x;.
+
+👉 Problem: Determine the result of let i = 6; i = --i + i++ - i--;.
+👉 Problem: What will be the value of j after let i = 7; let j = 3; j = ++i + --j * i-- + j++;?
+👉 Problem: Calculate the value of r after let m = 4; let n = 3; r = n-- * ++m + --n - m++;.
+
+👉 Problem: Predict the result of let x = 10; let y = 6; let z = 8; let res = --x + y++ * z-- - ++y;.
+👉 Problem: What will be the value of p after let a = 5; let b = 9; p = ++a - b-- + --b * a--;?
+
+
+👉 Problem: For let x = 5; let y = 3; let z = 7;, determine the result of let result = x++ - --y + z-- * ++x;.
+👉 Problem: Predict the output of let a = 8; let b = 2; let c = 4;, after let r = --a + b++ * c-- - ++b;.
+👉 Problem: Calculate the value of s after let m = 9; let n = 4; let o = 2; s = ++m * n-- - o++ + --n;.
+👉 Problem: What will be the result of let i = 6; let j = 2; let k = 3;, after k = i++ - --j * ++k + j--;?
+👉 Problem: Determine the output of let x = 3; let y = 5; let z = 2;, after let r = x++ + --y * z-- - ++x;.
+👉 Problem: Predict the outcome of let a = 7; let b = 9; let c = 4;, after let p = --b * ++a - c-- + a++;.
+👉 Problem: Calculate the value of q after let i = 10; let j = 3; let k = 5;, after q = i++ + --j * k-- + j++;.
+👉 Problem: What will be the value of d after let x = 4; let y = 8; let z = 1;, after d = y++ - --x + ++z * x--;?
+👉 Problem: Determine the result of let m = 12; let n = 5; let o = 7;, after o = --m * n++ + ++n - m--;.
+👉 Problem: Predict the output of let a = 6; let b = 4; let c = 9;, after let r = a++ - --b * c-- + ++a;.
+👉 Problem: What will be the value of result after let i = 11; let j = 7; let k = 3;, after result = i++ + --j - k-- * ++i;?
+👉 Problem: Calculate the outcome of let x = 5; let y = 2; let z = 8;, after z = --y * x++ + ++x - y--;
+

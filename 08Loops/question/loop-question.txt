@@ -1,0 +1,108 @@
+🎄 Basic Level
+
+👉 Print numbers from 1 to 10.
+👉 Print even numbers from 1 to 20.
+👉 Print odd numbers from 1 to 20.
+👉 Print the first 10 multiples of 5.
+👉 Calculate the sum of numbers from 1 to 10.
+👉 Calculate the product of numbers from 1 to 10.
+👉 Print the multiplication table for a given number.
+👉 Print the Fibonacci series up to 10 terms.
+👉 Reverse a given string.
+👉 Count the number of vowels in a given string.
+
+🎄 Intermediate Level
+
+👉 Print all prime numbers between 1 and 50.
+👉 Find the factorial of a given number.
+👉 Check if a given number is a palindrome.
+👉 Print the sum of digits of a given number.
+👉 Print the numbers in an array.
+👉 Find the largest number in an array.
+👉 Find the smallest number in an array.
+👉 Reverse an array.
+👉 Sort an array using the Bubble Sort algorithm.
+👉 Print the unique elements in an array.
+👉 Find the GCD of two numbers.
+👉 Print the LCM of two numbers.
+👉 Check if a given number is an Armstrong number.
+👉 Convert a decimal number to binary.
+👉 Convert a binary number to decimal.
+👉 Calculate the power of a number using a loop.
+👉 Print the first 10 terms of an arithmetic progression.
+👉 Print the first 10 terms of a geometric progression.
+👉 Check if a given year is a leap year.
+👉 Print the first 10 even Fibonacci numbers.
+👉 Print the Pascal triangle up to 5 rows.
+👉 Rotate an array to the left by one position.
+👉 Rotate an array to the right by one position.
+👉 Merge two sorted arrays into one.
+👉 Print the elements at even positions in an array.
+👉 Print the elements at odd positions in an array.
+👉 Count the frequency of each element in an array.
+👉 Check if an array is sorted in ascending order.
+👉 Print the square of each number in an array.
+👉 Print the cube of each number in an array.
+👉 Find the second largest number in an array.
+👉 Find the second smallest number in an array.
+👉 Print the sum of the first 10 natural numbers.
+👉 Print the product of the first 10 natural numbers.
+👉 Print all the perfect numbers between 1 and 1000.
+👉 Find the sum of the diagonal elements of a matrix.
+👉 Transpose a given matrix.
+👉 Calculate the sum of the elements in each row of a matrix.
+👉 Calculate the sum of the elements in each column of a matrix.
+👉 Multiply two matrices.
+
+🎄 Advanced Level
+
+👉 Implement the Sieve of Eratosthenes to find prime numbers.
+👉 Implement a binary search using a loop.
+👉 Find the longest common subsequence in two arrays.
+👉 Implement the Insertion Sort algorithm.
+👉 Implement the Selection Sort algorithm.
+👉 Implement the Quick Sort algorithm.
+👉 Implement the Merge Sort algorithm.
+👉 Implement the Heap Sort algorithm.
+👉 Implement a function to check if an array is a subset of another array.
+👉 Implement a function to find the missing number in an array of size n.
+👉 Implement a function to find the duplicate number in an array.
+👉 Check if a given matrix is symmetric.
+👉 Check if a given matrix is an identity matrix.
+👉 Rotate a matrix by 90 degrees.
+👉 Rotate a matrix by 180 degrees.
+👉 Print the spiral order of a matrix.
+👉 Find the longest increasing subsequence in an array.
+👉 Find the longest decreasing subsequence in an array.
+👉 Implement a function to merge overlapping intervals.
+👉 Implement a function to find the maximum subarray sum using Kadane's algorithm.
+👉 Implement a function to find the minimum subarray sum.
+👉 Implement a function to find the maximum product subarray.
+👉 Implement a function to find the minimum product subarray.
+👉 Implement a function to find the longest palindrome in a string.
+👉 Implement a function to count the number of substrings in a string.
+👉 Implement a function to find the longest common prefix in an array of strings.
+👉 Implement a function to check if two strings are anagrams.
+👉 Implement a function to generate all permutations of a string.
+👉 Implement a function to generate all combinations of a string.
+👉 Implement a function to check if a string is a valid palindrome.
+👉 Implement a function to count the number of inversions in an array.
+👉 Implement a function to find the median of two sorted arrays.
+👉 Implement a function to find the kth largest element in an array.
+👉 Implement a function to find the kth smallest element in an array.
+👉 Implement a function to count the number of distinct elements in an array.
+👉 Implement a function to find the majority element in an array.
+👉 Implement a function to find the first missing positive number in an array.
+👉 Implement a function to check if a given string is a valid number.
+👉 Implement a function to convert a Roman numeral to an integer.
+👉 Implement a function to convert an integer to a Roman numeral.
+👉 Implement a function to evaluate a postfix expression.
+👉 Implement a function to evaluate a prefix expression.
+👉 Implement a function to find the maximum area of a rectangle in a histogram.
+👉 Implement a function to trap rainwater in an array.
+👉 Implement a function to solve the N-Queens problem.
+👉 Implement a function to solve the Knight's Tour problem.
+👉 Implement a function to solve the Sudoku problem.
+👉 Implement a function to solve the Rat in a Maze problem.
+👉 Implement a function to solve the Hamiltonian Cycle problem.
+👉 Implement a function to solve the Traveling Salesman problem.
