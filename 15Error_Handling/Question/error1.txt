@@ -1,0 +1,53 @@
+
+Here's a list of the different types of errors in TypeScript:
+
+👉 Syntax Errors
+👉 Type Errors
+👉 Reference Errors
+👉 Range Errors
+👉 Logic Errors
+👉 Runtime Errors
+👉 Module Resolution Errors
+👉 Compiler Errors
+👉 Type Assertion Errors
+👉 Excess Property Errors
+👉 Interface/Type Implementation Errors
+👉 Function Call Errors
+👉 Object Property Errors
+👉 Enum Errors
+👉 Unhandled Promise Rejection Errors
+👉 Assertion and Guard Errors
+👉 Optional Property Errors
+👉 Unreachable Code Errors
+👉 Circular Dependency Errors
+👉 Namespace and Scope Errors
+👉 Index Signature Errors
+👉 Overload Resolution Errors
+👉 Null/Undefined Check Errors
+👉 Union vs. Intersection Type Errors
+👉 Ambiguous Call Signature Errors
+👉 Tuple Errors
+👉 Invalid Type Casting Errors
+👉 Non-Null Assertion Errors
+👉 Destructuring Errors
+👉 Type Inference Errors
+👉 Discriminated Union Errors
+👉 Implicit Any Errors
+👉 Missing Return Type Errors
+👉 Excessive Recursion Errors
+👉 Decorator Errors
+👉 Global vs. Local Scope Errors
+👉 Mixed Array Type Errors
+👉 Rest Parameter Errors
+👉 Spread Operator Errors
+👉 Optional Chaining Errors
+👉 BigInt Errors
+👉 Generator Function Errors
+👉 Readonly Property Errors
+👉 Access Modifier Errors (public, private, protected)
+👉 Abstract Class Implementation Errors
+👉 Generic Type Errors
+👉 Custom Type Guard Errors
+👉 Class Property Initialization Errors
+👉 Union Type Narrowing Errors
+👉 Enum Initialization Errors
