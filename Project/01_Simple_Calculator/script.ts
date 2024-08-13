@@ -4,7 +4,6 @@ let buttons = document.getElementsByTagName("button") as HTMLCollectionOf<HTMLBu
 Array.from(buttons).forEach((button) => {
     button.addEventListener("click", (e) => {
         e.preventDefault(); // Prevent default button behavior
-
         if (output) {
             if (button.value === "AC") {
                 // Clear the output if "AC" button is clicked
@@ -14,7 +13,7 @@ Array.from(buttons).forEach((button) => {
                 try {
                     // Use Function constructor to evaluate expression safely
                     const result:number = new Function('return ' + output.value)();
-                    output.value =  String(result.toFixed(2));
+                    output.value =  String(result);
                 } catch (error) {
                     // Handle any errors that occur during evaluation
                     console.error('Invalid expression:', error);

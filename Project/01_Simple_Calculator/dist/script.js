@@ -14,7 +14,7 @@ Array.from(buttons).forEach((button) => {
                 try {
                     // Use Function constructor to evaluate expression safely
                     const result = new Function('return ' + output.value)();
-                    output.value = String(result.toFixed(2));
+                    output.value = String(result);
                 }
                 catch (error) {
                     // Handle any errors that occur during evaluation
